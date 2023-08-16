@@ -5,3 +5,9 @@ test project
 ```python
 read.csv()
 ```
+- my table:
+
+
+| date | note |
+| -----: | :----- |
+| 16-Aug-23 | creating repository |
